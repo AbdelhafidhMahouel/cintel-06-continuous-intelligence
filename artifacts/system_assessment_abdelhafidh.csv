@@ -1,0 +1,2 @@
+avg_requests,avg_errors,avg_error_rate,avg_latency_ms,avg_success_rate,avg_latency_per_error,anomaly_count,anomaly_percent,first_half_error_rate,second_half_error_rate,first_half_avg_latency_ms,second_half_avg_latency_ms,drift_status,system_state
+157.35,4.433333333333334,0.026486148644015068,33.711553842122015,0.973513851355985,1073.1092194842195,20,0.3333,0.0273,0.0257,32.8568,34.5663,mixed,DEGRADED
