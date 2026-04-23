@@ -2,7 +2,7 @@
 **Abdelhafidh Mahouel**
 2026-04
 <p align="center">
-  <img src="../images/ci-banner.png" width="900">
+  <img src="./images/ci-banner.png" width="900">
 </p>
 
 This page summarizes my work on continuous intelligence projects, highlighting key techniques, datasets, and insights gained throughout the course.
